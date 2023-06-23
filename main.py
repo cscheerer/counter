@@ -1,6 +1,7 @@
 # Simple Counter
 # by cscheerer on GitHub
 # Put in "reset" to reset the counter.
+
 import time
 
 count = 0
